@@ -8,6 +8,13 @@
         },
         {
             "locales": [
+                "en",
+                "en-US"
+            ],
+            "name": "org.apache.xerces.impl.msg.XMLMessages"
+        },
+        {
+            "locales": [
                 "en-US"
             ],
             "name": "org.apache.xmlbeans.impl.regex.message"
